@@ -15,7 +15,6 @@ def timer_trigger_hello(myTimer: func.TimerRequest) -> None:
     logging.info(f"Servidor: {servidor}")
     logging.info(f"Banco de Dados: {banco_dados}")
     logging.info(f"Usuário: {usuario}")
-    logging.info(f"Senha: {senha}")
 
 
 
